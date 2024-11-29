@@ -21,7 +21,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 </p>
 
 ## Libs and Components
-
+-[Cursify](https://cursify.vercel.app/) - Effortlessly copy and customize modern cursor animations and interactive components for your React projects, built for developers who want creativity without complexity.
 - [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat.
 - [autocomplete-select-shadcn-ui](https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui) - Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske.
